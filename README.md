@@ -1,4 +1,4 @@
-# Hi, I'm Yazan 👋
+   # Hi, I'm Yazan 👋
 
 🎓 1st-year Software Engineering student @ Azrieli College  
 🚀 Passionate about building things from scratch  
@@ -23,5 +23,12 @@
 - 🎯 Looking for my first internship opportunity
 
 ---
+## 🚀 My Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [calculator-cli](https://github.com/yazanhajhussen-source/calculator-cli) | CLI calculator app | Python |
+| [student-grade-manager](https://github.com/yazanhajhussen-source/student-grade-manager) | Student grades tracker | Java |
+| [number-guessing-game](https://github.com/yazanhajhussen-source/number-guessing-game) | Fun guessing game | C++ |
 
 ⚡ *"Every expert was once a beginner."*
